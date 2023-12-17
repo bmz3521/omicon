@@ -4,7 +4,7 @@ import Layout from './layout';
 
 const Home: React.FC = () => {
   return (
-      <h1>Welcome to Next.js with TypeScript 1234</h1>
+      <h1>Welcome to Next.js with TypeScript </h1>
   );
 };
 
